@@ -44,7 +44,17 @@ The app fulfills the following requirements:
 
 ## Screenshots
 
-_Include screenshots of your app here to demonstrate the UI and features._
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/b4aee289-f68b-4290-aa6b-efe7b0691cdf" width="300" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c8863443-2ced-4898-a647-07215d0457b0" width="300" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/2b301a9f-469c-4ee6-b867-c59854519219" width="300" style="margin-right: 10px;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/78e34e83-3c2b-4b56-862a-37a9ac011486" width="300" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/7d3481cd-8656-49da-a8f1-95848e42afeb" width="300" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c928198d-616f-4d99-98d4-c2ca4d6b0e06" width="300" style="margin-right: 10px;">
+</div>
 
 ## Setup Instructions
 
@@ -96,7 +106,6 @@ The app uses the **GetX** state management pattern to handle the application's s
 
 Unit tests have been written for the critical parts of the application, such as task creation, task updates, and data persistence.
 
-
 ## Design Decisions
 
 - **MVVM Architecture**: I chose MVVM to separate concerns between UI, business logic, and data, ensuring better maintainability and testability.
@@ -107,6 +116,3 @@ Unit tests have been written for the critical parts of the application, such as 
 ## Conclusion
 
 This ToDoList app offers a simple yet powerful tool to manage tasks, set priorities, and receive notifications for due dates. It is built using modern Flutter practices, following the MVVM architecture for scalability and maintainability. The app is fully functional and user-friendly, with support for task creation, editing, deletion, reminders, and sorting.
-
-
-
