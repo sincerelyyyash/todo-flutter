@@ -1,7 +1,3 @@
-Here is a README template for your ToDoList App project, following the provided guidelines:
-
----
-
 # ToDoList App
 
 ## Overview
