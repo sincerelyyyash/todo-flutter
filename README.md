@@ -54,7 +54,7 @@ _Include screenshots of your app here to demonstrate the UI and features._
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todolist-app.git
+   git clone https://github.com/sincerelyyyash/todo-flutter.git
    ```
 
 2. **Install dependencies**:
